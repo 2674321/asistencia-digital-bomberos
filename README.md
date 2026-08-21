@@ -1,4 +1,8 @@
-# Asistencia Digital - 1ra Compañía de Bomberos
+> **⛔ PROYECTO DEPRECATED** — Propuesta de digitalización del registro de
+> asistencia de voluntarios. Descontinuada: la institución exige el formato
+> oficial exacto para poder adoptarla; pendiente replicar ese formato digitalmente.
+
+# Asistencia Digital — 1ª Compañía de Bomberos de Coquimbo
 
 Aplicación Web Progresiva (PWA) para el control de asistencia de voluntarios.
 
@@ -62,3 +66,10 @@ Sistema digital para registrar y gestionar la asistencia de voluntarios de la 1r
 ## Licencia
 
 Uso interno - 1ra Compañía de Bomberos
+
+
+## Versiones
+
+- **Actual (v3+):** `asistencia_primera_compania_v3.html` — PWA offline de un solo archivo.
+- **v1 (primer formato):** `versiones-anteriores/v1-primer-formato/` — versión inicial,
+  fusionada desde el antiguo repositorio `asistencia-1cia-coquimbo`.
