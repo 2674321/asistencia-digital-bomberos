@@ -76,3 +76,5 @@ Uso interno - 1ra Compañía de Bomberos
 - **Actual (v3+):** `asistencia_primera_compania_v3.html` — PWA offline de un solo archivo.
 - **v1 (primer formato):** `versiones-anteriores/v1-primer-formato/` — versión inicial,
   fusionada desde el antiguo repositorio `asistencia-1cia-coquimbo`.
+
+> ℹ️ `voluntarios.json` contiene **datos de prueba** (nombres ficticios); el listado real se gestiona localmente.
