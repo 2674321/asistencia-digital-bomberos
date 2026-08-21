@@ -13,4 +13,4 @@ jobs:
         with:
           node-version: '20'
       - name: Sintaxis service worker
-        run: node --check sw.js
+        run: node --check demo/sw.js
