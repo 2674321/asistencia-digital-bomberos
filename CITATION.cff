@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si utiliza este trabajo, por favor cítelo."
+title: "Asistencia Digital de Bomberos: PWA offline-first para control de asistencia"
+authors:
+  - family-names: Varela
+    given-names: Patricio
+    alias: CA2OPX
+    orcid: https://orcid.org/0009-0002-1087-9445
+version: "1.0"
+date-released: "2026-08-21"
+type: software
+keywords:
+  - "pwa"
+  - "bomberos"
+  - "asistencia"
+  - "offline-first"
+abstract: "Progressive Web App de registro de asistencia para compañías de Bomberos, con jerarquía de cargos y funcionamiento sin conexión."
+repository-code: "https://github.com/2674321/asistencia-digital-bomberos"
