@@ -24,6 +24,16 @@ Sistema digital para registrar y gestionar la asistencia de voluntarios de la 1r
 - **Sincronización automática** cuando se restaura la conexión
 - **Interfaz responsive** optimizada para todos los dispositivos
 
+## Capturas
+
+> Datos de prueba · capturas: agosto 2026 · v1 · [demo online](https://2674321.github.io/asistencia-digital-bomberos/)
+
+![Vista principal](docs/screenshots/asistencia-principal.png)
+*Vista principal — escritorio · ago 2026 · v1*
+
+![Vista móvil](docs/screenshots/asistencia-movil.png)
+*Vista móvil (PWA instalable) · ago 2026 · v1*
+
 ## Tecnologías
 
 - HTML5 / CSS3 / JavaScript vanilla
