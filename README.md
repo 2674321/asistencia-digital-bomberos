@@ -45,7 +45,7 @@ Sistema digital para registrar y gestionar la asistencia de voluntarios de la 1r
 
 | Archivo | Descripción |
 |---------|-------------|
-| `asistencia_primera_compania_v3.html` | Aplicación principal (入口) |
+| `asistencia_primera_compania_v3.html` | Aplicación principal (punto de entrada) |
 | `sw.js` | Service Worker para funcionalidad offline |
 | `manifest.json` | Manifest de la PWA |
 | `voluntarios.json` | Base de datos local de voluntarios |
