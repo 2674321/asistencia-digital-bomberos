@@ -1,5 +1,8 @@
 # Asistencia Digital — 1ª Compañía de Bomberos de Coquimbo
 
+<p align="center"><img src="docs/branding/app-icon.svg" width="150" alt="Icono minimalista de Asistencia Digital Bomberos"></p>
+
+
 **Autor:** [Patricio Varela C.](https://github.com/2674321) · **ORCID:** [0009-0002-1087-9445](https://orcid.org/0009-0002-1087-9445) · **Licencia:** [MIT](LICENSE) · **Citación:** [CITATION.cff](CITATION.cff)
 
 PWA histórica para registrar asistencia de voluntarios, diseñada con funcionamiento
