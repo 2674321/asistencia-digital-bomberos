@@ -1,20 +1,14 @@
-> **⛔ PROYECTO DEPRECATED** — Propuesta de digitalización del registro de
-> asistencia de voluntarios. Descontinuada: la institución exige el formato
-> oficial exacto para poder adoptarla; pendiente replicar ese formato digitalmente.
-
 # Asistencia Digital — 1ª Compañía de Bomberos de Coquimbo
 
-> ▶️ **[Demo online](https://2674321.github.io/asistencia-digital-bomberos/)** (datos de prueba)
+PWA histórica para registrar asistencia de voluntarios, diseñada con funcionamiento
+offline y sincronización posterior. El proyecto está **descontinuado** porque su
+adopción requiere replicar el formato institucional oficial con exactitud.
+
+> ▶️ **[Demo online](https://2674321.github.io/asistencia-digital-bomberos/)** · datos de prueba
 
 
 [![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue)](LICENSE) ![Versión](https://img.shields.io/badge/versi%C3%B3n-v1.0-green) ![Estado](https://img.shields.io/badge/estado-deprecated-red) [![CI](https://github.com/2674321/asistencia-digital-bomberos/actions/workflows/ci.yml/badge.svg)](https://github.com/2674321/asistencia-digital-bomberos/actions/workflows/ci.yml)
 
-
-Aplicación Web Progresiva (PWA) para el control de asistencia de voluntarios.
-
-## Descripción
-
-Sistema digital para registrar y gestionar la asistencia de voluntarios de la 1ra Compañía de Bomberos. Diseñado para funcionar tanto en línea como sin conexión a internet.
 
 ## Características
 
