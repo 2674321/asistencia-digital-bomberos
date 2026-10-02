@@ -1,6 +1,11 @@
-const CACHE = 'asistencia-1cia-v5';
+const CACHE = 'asistencia-1cia-v6';
 const STATIC = [
+  './',
+  'asistencia_primera_compania_v3.html',
   'manifest.json',
+  'favicon.svg',
+  'icons/favicon-256.png',
+  'voluntarios.json',
   '../img-logo-1cia.jpg',
   '../LOGO%20CBC.webp'
 ];
