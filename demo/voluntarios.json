@@ -1,0 +1,429 @@
+[
+  {
+    "nombre": "Voluntario Demo 01",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 02",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 03",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 04",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 05",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 06",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 07",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 08",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 09",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 10",
+    "cargo": "Teniente 1°",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "operativa"
+  },
+  {
+    "nombre": "Voluntario Demo 11",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 12",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 13",
+    "cargo": "M.M.H.H.",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 14",
+    "cargo": "Comandante 3°",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 15",
+    "cargo": "Director(a)",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "administrativa"
+  },
+  {
+    "nombre": "Voluntario Demo 16",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 17",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 18",
+    "cargo": "Capitán",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "operativa"
+  },
+  {
+    "nombre": "Voluntario Demo 19",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 20",
+    "cargo": "Maquinista de Compañía",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 21",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": false,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 22",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 23",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 24",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 25",
+    "cargo": "Vice Superintendente",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 26",
+    "cargo": "Secretario(a)",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "administrativa"
+  },
+  {
+    "nombre": "Voluntario Demo 27",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 28",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 29",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 30",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 31",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 32",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": false,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 33",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 34",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 35",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 36",
+    "cargo": "Inspector Material Menor",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 37",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": false,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 38",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 39",
+    "cargo": "Teniente 3°",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "operativa"
+  },
+  {
+    "nombre": "Voluntario Demo 40",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": false,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 41",
+    "cargo": "Teniente 2°",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "operativa"
+  },
+  {
+    "nombre": "Voluntario Demo 42",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 43",
+    "cargo": "Ayudante",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "operativa"
+  },
+  {
+    "nombre": "Voluntario Demo 44",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 45",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 46",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 47",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": false,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 48",
+    "cargo": "Aspirante",
+    "seccion": "aspirantes",
+    "activo": false,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 49",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 50",
+    "cargo": "Aspirante",
+    "seccion": "aspirantes",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 51",
+    "cargo": "Tesorero(a)",
+    "seccion": "oficialidad",
+    "activo": true,
+    "subseccion": "administrativa"
+  },
+  {
+    "nombre": "Voluntario Demo 52",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 53",
+    "cargo": "Aspirante",
+    "seccion": "aspirantes",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 54",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 55",
+    "cargo": "Aspirante",
+    "seccion": "aspirantes",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 56",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 57",
+    "cargo": "Voluntario(a)",
+    "seccion": "voluntarios",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 58",
+    "cargo": "Aspirante",
+    "seccion": "aspirantes",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 59",
+    "cargo": "Aspirante",
+    "seccion": "aspirantes",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 60",
+    "cargo": "Aspirante",
+    "seccion": "aspirantes",
+    "activo": true,
+    "subseccion": ""
+  },
+  {
+    "nombre": "Voluntario Demo 61",
+    "cargo": "Brigadier",
+    "seccion": "brigadieres",
+    "activo": true,
+    "subseccion": ""
+  }
+]
