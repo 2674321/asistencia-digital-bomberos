@@ -92,4 +92,7 @@ Uso interno - 1ra Compañía de Bomberos
 - **v1 (primer formato):** `versiones-anteriores/v1-primer-formato/` — versión inicial,
   fusionada desde el antiguo repositorio `asistencia-1cia-coquimbo`.
 
-> ℹ️ `voluntarios.json` contiene **datos de prueba** (nombres ficticios); el listado real se gestiona localmente.
+> ℹ️ Los `voluntarios.json` de este repositorio contienen **datos de prueba**
+> (nombres ficticios). La copia histórica de `versiones-anteriores/v1-primer-formato/`
+> correspondía a un listado real de la compañía y fue sustituida por un fixture
+> sintético; el listado real se gestiona localmente, fuera de Git.
